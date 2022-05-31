@@ -4,7 +4,7 @@ src-git routing https://github.com/qy116427/routing
 src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git extra https://github.com/qy116427/Openwrt-packages.git
 src-git ssr https://github.com/awesome-openwrt/app-ssr-plus.git
-src-git smail https://github.com/kenzok8/small.git 
+src-git small https://github.com/kenzok8/small.git 
 src-git helloworld https://github.com/fw876/helloworld
 src-git passwall https://github.com/xiaorouji/openwrt-passwall
 #src-git video https://github.com/openwrt/video.git
