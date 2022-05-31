@@ -1,5 +1,5 @@
 src-git packages https://github.com/qy116427/lede/packages
-src-git luci https://github.com/qy116427/ledeluci
+src-git luci https://github.com/qy116427/lede/luci
 src-git routing https://github.com/qy116427/lede/routing
 src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git extra https://github.com/qy116427/Openwrt-packages.git
