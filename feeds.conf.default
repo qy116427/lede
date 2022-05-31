@@ -1,6 +1,6 @@
-src-git packages https://github.com/qy116427/lede/tree/master/packages
-src-git luci https://github.com/qy116427/lede/tree/master//luci
-src-git routing https://github.com/qy116427/lede/tree/master//routing
+src-git packages https://github.com/qy116427/packages
+src-git luci https://github.com/qy116427/luci
+src-git routing https://github.com/qy116427/routing
 src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git extra https://github.com/qy116427/Openwrt-packages.git
 src-git ssr https://github.com/awesome-openwrt/app-ssr-plus.git
